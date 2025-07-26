@@ -1,0 +1,1640 @@
+[
+  {
+    "pertanyaan": "Berapa hasil dari 10 + 15?",
+    "hint": "Jumlahkan kedua angka",
+    "answer": "25",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika y = 7, maka berapa nilai dari 2y - 3?",
+    "hint": "Ganti y dengan 7 lalu hitung",
+    "answer": "11",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa akar kuadrat dari 169?",
+    "hint": "Cari bilangan yang jika dikali dengan dirinya hasilnya 169",
+    "answer": "13",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari (5^2 - 3^2)?",
+    "hint": "Hitung kuadrat masing-masing angka lalu kurangkan",
+    "answer": "16",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah segitiga memiliki alas 6 cm dan tinggi 4 cm, berapa luasnya?",
+    "hint": "Rumus luas segitiga = 1/2 x alas x tinggi",
+    "answer": "12",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ 3x^2 dx?",
+    "hint": "Gunakan aturan integral pangkat",
+    "answer": "x^3 + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (sin x)?",
+    "hint": "Ingat turunan fungsi trigonometri dasar",
+    "answer": "cos x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 7 x 8?",
+    "hint": "Perkalian dasar",
+    "answer": "56",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika f(x) = 2x + 5, berapa f(3)?",
+    "hint": "Substitusi x dengan 3",
+    "answer": "11",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa 30% dari 200?",
+    "hint": "Kalikan 200 dengan 0.30",
+    "answer": "60",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah lingkaran memiliki jari-jari 7 cm, berapa luasnya? (π=22/7)",
+    "hint": "Rumus luas lingkaran = πr^2",
+    "answer": "154",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari limit lim(x→2) (x^2 - 4)/(x - 2)?",
+    "hint": "Faktorkan pembilang atau gunakan L'Hopital",
+    "answer": "4",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari log 100?",
+    "hint": "Logaritma basis 10",
+    "answer": "2",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 45 ÷ 9?",
+    "hint": "Pembagian dasar",
+    "answer": "5",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika z = 10, berapa 4z + z?",
+    "hint": "Ganti z dengan 10 lalu hitung",
+    "answer": "50",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 11^2?",
+    "hint": "11 kuadrat",
+    "answer": "121",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Sebuah kubus memiliki rusuk 3 cm, berapa volumenya?",
+    "hint": "Rumus volume kubus = rusuk^3",
+    "answer": "27",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (e^x)?",
+    "hint": "Turunan fungsi eksponensial",
+    "answer": "e^x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 3! (3 faktorial)?",
+    "hint": "3! = 3 × 2 × 1",
+    "answer": "6",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 17 - 9?",
+    "hint": "Pengurangan dasar",
+    "answer": "8",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika g(x) = x^2 - 4, berapa g(5)?",
+    "hint": "Substitusi x dengan 5",
+    "answer": "21",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(30°)?",
+    "hint": "Nilai sin sudut istimewa",
+    "answer": "0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah trapesium memiliki sisi sejajar 5 cm dan 7 cm dengan tinggi 4 cm, berapa luasnya?",
+    "hint": "Rumus luas trapesium = 1/2 × (a+b) × t",
+    "answer": "24",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ cos x dx?",
+    "hint": "Integral fungsi trigonometri dasar",
+    "answer": "sin x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 4^3?",
+    "hint": "4 pangkat 3",
+    "answer": "64",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 100 ÷ 4?",
+    "hint": "Pembagian dasar",
+    "answer": "25",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika h(x) = 1/x, berapa h(2)?",
+    "hint": "Substitusi x dengan 2",
+    "answer": "0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(45°)?",
+    "hint": "Nilai tan sudut istimewa",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah balok memiliki panjang 5 cm, lebar 4 cm, dan tinggi 3 cm, berapa volumenya?",
+    "hint": "Rumus volume balok = p × l × t",
+    "answer": "60",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (ln x)?",
+    "hint": "Turunan logaritma natural",
+    "answer": "1/x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 5 + 7 × 2?",
+    "hint": "Ingat urutan operasi (perkalian dulu)",
+    "answer": "19",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Jika j(x) = 3x^2 + 2x - 1, berapa j(1)?",
+    "hint": "Substitusi x dengan 1",
+    "answer": "4",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(60°)?",
+    "hint": "Nilai cos sudut istimewa",
+    "answer": "0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah lingkaran memiliki diameter 14 cm, berapa kelilingnya? (π=22/7)",
+    "hint": "Rumus keliling lingkaran = πd",
+    "answer": "44",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari limit lim(x→∞) (1 + 1/x)^x?",
+    "hint": "Ini adalah definisi bilangan e",
+    "answer": "e",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 2^5?",
+    "hint": "2 pangkat 5",
+    "answer": "32",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 144 ÷ 12?",
+    "hint": "Pembagian dasar",
+    "answer": "12",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika k(x) = √x, berapa k(16)?",
+    "hint": "Akar kuadrat dari 16",
+    "answer": "4",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(90°)?",
+    "hint": "Nilai sin sudut istimewa",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah prisma segitiga memiliki luas alas 12 cm² dan tinggi 5 cm, berapa volumenya?",
+    "hint": "Rumus volume prisma = luas alas × tinggi",
+    "answer": "60",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (x^4 + 3x^3)?",
+    "hint": "Turunan setiap suku secara terpisah",
+    "answer": "4x^3 + 9x^2",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 9 × 7?",
+    "hint": "Perkalian dasar",
+    "answer": "63",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika m(x) = e^x, berapa m(0)?",
+    "hint": "e pangkat 0",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(90°)?",
+    "hint": "Nilai cos sudut istimewa",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 24 cm, berapa volumenya? (π=22/7)",
+    "hint": "Rumus volume kerucut = 1/3 × πr² × t",
+    "answer": "1232",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (2x + 3) dx?",
+    "hint": "Integral setiap suku secara terpisah",
+    "answer": "x^2 + 3x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 6^2?",
+    "hint": "6 kuadrat",
+    "answer": "36",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 81 ÷ 9?",
+    "hint": "Pembagian dasar",
+    "answer": "9",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika n(x) = |x|, berapa n(-5)?",
+    "hint": "Nilai mutlak dari -5",
+    "answer": "5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(30°)?",
+    "hint": "Nilai tan sudut istimewa",
+    "answer": "√3/3 atau ≈0.577",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah bola memiliki jari-jari 10 cm, berapa volumenya? (π=3.14)",
+    "hint": "Rumus volume bola = 4/3 × πr³",
+    "answer": "4186.67",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (cos x)?",
+    "hint": "Turunan fungsi trigonometri dasar",
+    "answer": "-sin x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 8 × 9?",
+    "hint": "Perkalian dasar",
+    "answer": "72",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika p(x) = 1/(x+1), berapa p(1)?",
+    "hint": "Substitusi x dengan 1",
+    "answer": "0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(0°)?",
+    "hint": "Nilai sin sudut istimewa",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 10 cm, berapa volumenya? (π=22/7)",
+    "hint": "Rumus volume tabung = πr²h",
+    "answer": "1540",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ e^x dx?",
+    "hint": "Integral fungsi eksponensial",
+    "answer": "e^x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 7^2?",
+    "hint": "7 kuadrat",
+    "answer": "49",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 64 ÷ 8?",
+    "hint": "Pembagian dasar",
+    "answer": "8",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika q(x) = x^3 - 2x + 1, berapa q(2)?",
+    "hint": "Substitusi x dengan 2",
+    "answer": "5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(45°)?",
+    "hint": "Nilai cos sudut istimewa",
+    "answer": "√2/2 atau ≈0.707",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah limas persegi memiliki sisi alas 6 cm dan tinggi 9 cm, berapa volumenya?",
+    "hint": "Rumus volume limas = 1/3 × luas alas × tinggi",
+    "answer": "108",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (tan x)?",
+    "hint": "Turunan fungsi trigonometri",
+    "answer": "sec² x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 5 × 12?",
+    "hint": "Perkalian dasar",
+    "answer": "60",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika r(x) = log₂x, berapa r(8)?",
+    "hint": "2 pangkat berapa yang hasilnya 8",
+    "answer": "3",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(60°)?",
+    "hint": "Nilai sin sudut istimewa",
+    "answer": "√3/2 atau ≈0.866",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah belah ketupat memiliki diagonal 8 cm dan 6 cm, berapa luasnya?",
+    "hint": "Rumus luas belah ketupat = 1/2 × d1 × d2",
+    "answer": "24",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari limit lim(x→0) sin x / x?",
+    "hint": "Limit trigonometri dasar",
+    "answer": "1",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 3^4?",
+    "hint": "3 pangkat 4",
+    "answer": "81",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 121 ÷ 11?",
+    "hint": "Pembagian dasar",
+    "answer": "11",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika s(x) = 2^x, berapa s(3)?",
+    "hint": "2 pangkat 3",
+    "answer": "8",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(60°)?",
+    "hint": "Nilai tan sudut istimewa",
+    "answer": "√3 atau ≈1.732",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah jajar genjang memiliki alas 10 cm dan tinggi 5 cm, berapa luasnya?",
+    "hint": "Rumus luas jajar genjang = alas × tinggi",
+    "answer": "50",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (sec x)?",
+    "hint": "Turunan fungsi trigonometri",
+    "answer": "sec x tan x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 6 × 7?",
+    "hint": "Perkalian dasar",
+    "answer": "42",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika t(x) = ln x, berapa t(e)?",
+    "hint": "ln e = 1",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(30°)?",
+    "hint": "Nilai cos sudut istimewa",
+    "answer": "√3/2 atau ≈0.866",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah layang-layang memiliki diagonal 10 cm dan 15 cm, berapa luasnya?",
+    "hint": "Rumus luas layang-layang = 1/2 × d1 × d2",
+    "answer": "75",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ sin x dx?",
+    "hint": "Integral fungsi trigonometri dasar",
+    "answer": "-cos x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 4^4?",
+    "hint": "4 pangkat 4",
+    "answer": "256",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 169 ÷ 13?",
+    "hint": "Pembagian dasar",
+    "answer": "13",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika u(x) = √(x+1), berapa u(8)?",
+    "hint": "Akar kuadrat dari (8+1)",
+    "answer": "3",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(45°)?",
+    "hint": "Nilai sin sudut istimewa",
+    "answer": "√2/2 atau ≈0.707",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah prisma segiempat beraturan memiliki sisi alas 5 cm dan tinggi 12 cm, berapa volumenya?",
+    "hint": "Volume prisma = luas alas × tinggi",
+    "answer": "300",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (csc x)?",
+    "hint": "Turunan fungsi trigonometri",
+    "answer": "-csc x cot x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 9 × 8?",
+    "hint": "Perkalian dasar",
+    "answer": "72",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika v(x) = x^2 + 3x - 4, berapa v(1)?",
+    "hint": "Substitusi x dengan 1",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(0°)?",
+    "hint": "Nilai cos sudut istimewa",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah segitiga siku-siku memiliki sisi 3 cm dan 4 cm, berapa sisi miringnya?",
+    "hint": "Gunakan teorema Pythagoras",
+    "answer": "5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari limit lim(x→1) (x^2 - 1)/(x - 1)?",
+    "hint": "Faktorkan pembilang",
+    "answer": "2",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 5^3?",
+    "hint": "5 pangkat 3",
+    "answer": "125",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 225 ÷ 15?",
+    "hint": "Pembagian dasar",
+    "answer": "15",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika w(x) = e^(2x), berapa w(0)?",
+    "hint": "e pangkat 0",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(90°)?",
+    "hint": "Nilai tan sudut istimewa (tidak terdefinisi)",
+    "answer": "tidak terdefinisi",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah trapesium sama kaki memiliki sisi sejajar 8 cm dan 12 cm dengan tinggi 5 cm, berapa luasnya?",
+    "hint": "Rumus luas trapesium = 1/2 × (a+b) × t",
+    "answer": "50",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (x ln x)?",
+    "hint": "Gunakan aturan perkalian turunan",
+    "answer": "1 + ln x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 11 × 12?",
+    "hint": "Perkalian dasar",
+    "answer": "132",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika y(x) = 1/(x^2), berapa y(2)?",
+    "hint": "Substitusi x dengan 2",
+    "answer": "0.25",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(180°)?",
+    "hint": "Nilai sin sudut istimewa",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah segitiga sama sisi memiliki sisi 6 cm, berapa tingginya?",
+    "hint": "Gunakan teorema Pythagoras pada segitiga 30-60-90",
+    "answer": "3√3 atau ≈5.196",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (3x^2 + 2x) dx?",
+    "hint": "Integral setiap suku secara terpisah",
+    "answer": "x^3 + x^2 + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 2^6?",
+    "hint": "2 pangkat 6",
+    "answer": "64",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 256 ÷ 16?",
+    "hint": "Pembagian dasar",
+    "answer": "16",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika z(x) = cos(x), berapa z(0)?",
+    "hint": "cos dari 0 derajat",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(0°)?",
+    "hint": "Nilai tan sudut istimewa",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah persegi memiliki keliling 20 cm, berapa panjang sisinya?",
+    "hint": "Keliling persegi = 4 × sisi",
+    "answer": "5",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (arctan x)?",
+    "hint": "Turunan fungsi invers trigonometri",
+    "answer": "1/(1 + x^2)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 12 × 11?",
+    "hint": "Perkalian dasar",
+    "answer": "132",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika a(x) = sin(x) + cos(x), berapa a(0)?",
+    "hint": "Hitung sin(0) + cos(0)",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(180°)?",
+    "hint": "Nilai cos sudut istimewa",
+    "answer": "-1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah segitiga memiliki luas 24 cm² dan alas 8 cm, berapa tingginya?",
+    "hint": "Rumus luas = 1/2 × alas × tinggi",
+    "answer": "6",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari limit lim(x→3) (x^2 - 9)/(x - 3)?",
+    "hint": "Faktorkan pembilang",
+    "answer": "6",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 6^3?",
+    "hint": "6 pangkat 3",
+    "answer": "216",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 289 ÷ 17?",
+    "hint": "Pembagian dasar",
+    "answer": "17",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika b(x) = tan(x), berapa b(0)?",
+    "hint": "tan dari 0 derajat",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(270°)?",
+    "hint": "Nilai sin sudut istimewa",
+    "answer": "-1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah belah ketupat memiliki keliling 40 cm, berapa panjang sisinya?",
+    "hint": "Keliling belah ketupat = 4 × sisi",
+    "answer": "10",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (arcsin x)?",
+    "hint": "Turunan fungsi invers trigonometri",
+    "answer": "1/√(1 - x^2)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 13 × 5?",
+    "hint": "Perkalian dasar",
+    "answer": "65",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika c(x) = e^x + x, berapa c(0)?",
+    "hint": "Substitusi x dengan 0",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(270°)?",
+    "hint": "Nilai cos sudut istimewa",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah jajar genjang memiliki sisi 5 cm dan 7 cm, berapa kelilingnya?",
+    "hint": "Keliling jajar genjang = 2 × (sisi1 + sisi2)",
+    "answer": "24",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (1/x) dx?",
+    "hint": "Integral fungsi pecahan",
+    "answer": "ln|x| + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 7^3?",
+    "hint": "7 pangkat 3",
+    "answer": "343",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 324 ÷ 18?",
+    "hint": "Pembagian dasar",
+    "answer": "18",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika d(x) = sec(x), berapa d(0)?",
+    "hint": "sec(0) = 1/cos(0)",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(180°)?",
+    "hint": "Nilai tan sudut istimewa",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah layang-layang memiliki sisi 5 cm dan 7 cm, berapa kelilingnya?",
+    "hint": "Keliling layang-layang = 2 × (sisi1 + sisi2)",
+    "answer": "24",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (arccos x)?",
+    "hint": "Turunan fungsi invers trigonometri",
+    "answer": "-1/√(1 - x^2)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 14 × 6?",
+    "hint": "Perkalian dasar",
+    "answer": "84",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika e(x) = csc(x), berapa e(90°)?",
+    "hint": "csc(90°) = 1/sin(90°)",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(360°)?",
+    "hint": "Nilai sin sudut istimewa",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah segitiga siku-siku memiliki sisi miring 13 cm dan satu sisi 5 cm, berapa sisi lainnya?",
+    "hint": "Gunakan teorema Pythagoras",
+    "answer": "12",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (e^x + 1) dx?",
+    "hint": "Integral setiap suku secara terpisah",
+    "answer": "e^x + x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 8^3?",
+    "hint": "8 pangkat 3",
+    "answer": "512",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 361 ÷ 19?",
+    "hint": "Pembagian dasar",
+    "answer": "19",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika f(x) = cot(x), berapa f(45°)?",
+    "hint": "cot(45°) = 1/tan(45°)",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(360°)?",
+    "hint": "Nilai cos sudut istimewa",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah trapesium memiliki keliling 30 cm dengan sisi 5 cm, 7 cm, 8 cm, dan sisi keempat?",
+    "hint": "Jumlahkan semua sisi untuk mendapatkan keliling",
+    "answer": "10",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (x e^x)?",
+    "hint": "Gunakan aturan perkalian turunan",
+    "answer": "e^x (x + 1)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 15 × 7?",
+    "hint": "Perkalian dasar",
+    "answer": "105",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika g(x) = sinh(x), berapa g(0)?",
+    "hint": "sinus hiperbolik dari 0",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(360°)?",
+    "hint": "Nilai tan sudut istimewa",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah segitiga sama kaki memiliki sisi sama 5 cm dan alas 6 cm, berapa tingginya?",
+    "hint": "Gunakan teorema Pythagoras",
+    "answer": "4",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (2x + sin x) dx?",
+    "hint": "Integral setiap suku secara terpisah",
+    "answer": "x^2 - cos x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 9^3?",
+    "hint": "9 pangkat 3",
+    "answer": "729",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 400 ÷ 20?",
+    "hint": "Pembagian dasar",
+    "answer": "20",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika h(x) = cosh(x), berapa h(0)?",
+    "hint": "cosinus hiperbolik dari 0",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(π/2)? (dalam radian)",
+    "hint": "π/2 radian = 90 derajat",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah lingkaran memiliki keliling 44 cm, berapa jari-jarinya? (π=22/7)",
+    "hint": "Rumus keliling = 2πr",
+    "answer": "7",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (ln(3x))?",
+    "hint": "Gunakan aturan rantai",
+    "answer": "1/x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 16 × 5?",
+    "hint": "Perkalian dasar",
+    "answer": "80",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika i(x) = √(x^2 + 1), berapa i(0)?",
+    "hint": "Substitusi x dengan 0",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(π)? (dalam radian)",
+    "hint": "π radian = 180 derajat",
+    "answer": "-1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah persegi panjang memiliki luas 48 cm² dan panjang 8 cm, berapa lebarnya?",
+    "hint": "Luas = panjang × lebar",
+    "answer": "6",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (3x^2 + cos x) dx?",
+    "hint": "Integral setiap suku secara terpisah",
+    "answer": "x^3 + sin x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 10^3?",
+    "hint": "10 pangkat 3",
+    "answer": "1000",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 441 ÷ 21?",
+    "hint": "Pembagian dasar",
+    "answer": "21",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika j(x) = |x - 3|, berapa j(1)?",
+    "hint": "Nilai mutlak dari (1-3)",
+    "answer": "2",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(π/4)? (dalam radian)",
+    "hint": "π/4 radian = 45 derajat",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah kerucut memiliki garis pelukis 25 cm dan jari-jari 7 cm, berapa tingginya?",
+    "hint": "Gunakan teorema Pythagoras: t = √(s² - r²)",
+    "answer": "24",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (e^(2x))?",
+    "hint": "Gunakan aturan rantai",
+    "answer": "2e^(2x)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 17 × 4?",
+    "hint": "Perkalian dasar",
+    "answer": "68",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika k(x) = (x+1)/(x-1), berapa k(2)?",
+    "hint": "Substitusi x dengan 2",
+    "answer": "3",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(π/6)? (dalam radian)",
+    "hint": "π/6 radian = 30 derajat",
+    "answer": "0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah tabung memiliki volume 1540 cm³ dan jari-jari 7 cm, berapa tingginya? (π=22/7)",
+    "hint": "Rumus volume = πr²h",
+    "answer": "10",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (1 + x + x^2) dx?",
+    "hint": "Integral setiap suku secara terpisah",
+    "answer": "x + x^2/2 + x^3/3 + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 11^3?",
+    "hint": "11 pangkat 3",
+    "answer": "1331",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 484 ÷ 22?",
+    "hint": "Pembagian dasar",
+    "answer": "22",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika l(x) = x^2 + 2x + 1, berapa l(-1)?",
+    "hint": "Substitusi x dengan -1",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(π/3)? (dalam radian)",
+    "hint": "π/3 radian = 60 derajat",
+    "answer": "0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah bola memiliki volume 288π cm³, berapa jari-jarinya?",
+    "hint": "Rumus volume = 4/3 πr³",
+    "answer": "6",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (sin(2x))?",
+    "hint": "Gunakan aturan rantai",
+    "answer": "2cos(2x)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 18 × 6?",
+    "hint": "Perkalian dasar",
+    "answer": "108",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika m(x) = √(4 - x^2), berapa m(0)?",
+    "hint": "Substitusi x dengan 0",
+    "answer": "2",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(π/6)? (dalam radian)",
+    "hint": "π/6 radian = 30 derajat",
+    "answer": "√3/3 atau ≈0.577",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah limas segiempat memiliki volume 100 cm³ dan luas alas 25 cm², berapa tingginya?",
+    "hint": "Rumus volume limas = 1/3 × luas alas × tinggi",
+    "answer": "12",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (2^x) dx?",
+    "hint": "Integral fungsi eksponensial dengan basis bukan e",
+    "answer": "(2^x)/ln2 + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 12^3?",
+    "hint": "12 pangkat 3",
+    "answer": "1728",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 529 ÷ 23?",
+    "hint": "Pembagian dasar",
+    "answer": "23",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika n(x) = (2x + 3)/(x - 1), berapa n(2)?",
+    "hint": "Substitusi x dengan 2",
+    "answer": "7",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(π/4)? (dalam radian)",
+    "hint": "π/4 radian = 45 derajat",
+    "answer": "√2/2 atau ≈0.707",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah prisma segitiga memiliki volume 60 cm³ dan luas alas 12 cm², berapa tingginya?",
+    "hint": "Rumus volume prisma = luas alas × tinggi",
+    "answer": "5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (cos(3x))?",
+    "hint": "Gunakan aturan rantai",
+    "answer": "-3sin(3x)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 19 × 5?",
+    "hint": "Perkalian dasar",
+    "answer": "95",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika o(x) = log₃x, berapa o(9)?",
+    "hint": "3 pangkat berapa yang hasilnya 9",
+    "answer": "2",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(π/2)? (dalam radian)",
+    "hint": "π/2 radian = 90 derajat",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah kerucut terpancung memiliki jari-jari bawah 7 cm, atas 3 cm, dan tinggi 4 cm, berapa volumenya? (π=22/7)",
+    "hint": "Rumus volume = 1/3 πh(R² + Rr + r²)",
+    "answer": "124",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (1/(1 + x^2)) dx?",
+    "hint": "Integral fungsi trigonometri invers",
+    "answer": "arctan x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 13^3?",
+    "hint": "13 pangkat 3",
+    "answer": "2197",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 576 ÷ 24?",
+    "hint": "Pembagian dasar",
+    "answer": "24",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika p(x) = sinh(x) + cosh(x), berapa p(1)?",
+    "hint": "Ingat hubungan sinh dan cosh dengan e^x",
+    "answer": "e",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(π/2)? (dalam radian)",
+    "hint": "π/2 radian = 90 derajat (tidak terdefinisi)",
+    "answer": "tidak terdefinisi",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah segitiga memiliki sisi 7 cm, 24 cm, dan 25 cm, apakah ini segitiga siku-siku?",
+    "hint": "Cek dengan teorema Pythagoras",
+    "answer": "Ya",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (x sin x)?",
+    "hint": "Gunakan aturan perkalian turunan",
+    "answer": "sin x + x cos x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 20 × 7?",
+    "hint": "Perkalian dasar",
+    "answer": "140",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika q(x) = arcsin(x), berapa q(0)?",
+    "hint": "arcsin(0) = sudut yang sin-nya 0",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(2π)? (dalam radian)",
+    "hint": "2π radian = 360 derajat",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah trapesium siku-siku memiliki sisi sejajar 5 cm dan 10 cm dengan tinggi 4 cm, berapa luasnya?",
+    "hint": "Rumus luas trapesium = 1/2 × (a+b) × t",
+    "answer": "30",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (sec² x) dx?",
+    "hint": "Integral fungsi trigonometri",
+    "answer": "tan x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 14^3?",
+    "hint": "14 pangkat 3",
+    "answer": "2744",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 625 ÷ 25?",
+    "hint": "Pembagian dasar",
+    "answer": "25",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika r(x) = arctan(x), berapa r(0)?",
+    "hint": "arctan(0) = sudut yang tan-nya 0",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(2π)? (dalam radian)",
+    "hint": "2π radian = 360 derajat",
+    "answer": "1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah belah ketupat memiliki diagonal 10 cm dan 24 cm, berapa panjang sisinya?",
+    "hint": "Gunakan teorema Pythagoras pada setengah diagonal",
+    "answer": "13",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (ln(cos x))?",
+    "hint": "Gunakan aturan rantai",
+    "answer": "-tan x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 21 × 6?",
+    "hint": "Perkalian dasar",
+    "answer": "126",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika s(x) = arccos(x), berapa s(1)?",
+    "hint": "arccos(1) = sudut yang cos-nya 1",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(π)? (dalam radian)",
+    "hint": "π radian = 180 derajat",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah layang-layang memiliki sisi 5 cm dan 8 cm, berapa kelilingnya?",
+    "hint": "Keliling = 2 × (sisi1 + sisi2)",
+    "answer": "26",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (csc² x) dx?",
+    "hint": "Integral fungsi trigonometri",
+    "answer": "-cot x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 15^3?",
+    "hint": "15 pangkat 3",
+    "answer": "3375",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 676 ÷ 26?",
+    "hint": "Pembagian dasar",
+    "answer": "26",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika t(x) = arcsec(x), berapa t(1)?",
+    "hint": "arcsec(1) = sudut yang sec-nya 1",
+    "answer": "0",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(3π/2)? (dalam radian)",
+    "hint": "3π/2 radian = 270 derajat",
+    "answer": "-1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah segitiga sama sisi memiliki keliling 18 cm, berapa panjang sisinya?",
+    "hint": "Keliling = 3 × sisi",
+    "answer": "6",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (e^x cos x)?",
+    "hint": "Gunakan aturan perkalian turunan",
+    "answer": "e^x (cos x - sin x)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 22 × 7?",
+    "hint": "Perkalian dasar",
+    "answer": "154",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika u(x) = arccsc(x), berapa u(1)?",
+    "hint": "arccsc(1) = sudut yang csc-nya 1",
+    "answer": "π/2",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(3π/2)? (dalam radian)",
+    "hint": "3π/2 radian = 270 derajat",
+    "answer": "0",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah jajaran genjang memiliki luas 50 cm² dan tinggi 5 cm, berapa alasnya?",
+    "hint": "Luas = alas × tinggi",
+    "answer": "10",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (sec x tan x) dx?",
+    "hint": "Integral fungsi trigonometri",
+    "answer": "sec x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 16^3?",
+    "hint": "16 pangkat 3",
+    "answer": "4096",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 729 ÷ 27?",
+    "hint": "Pembagian dasar",
+    "answer": "27",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika v(x) = arccot(x), berapa v(0)?",
+    "hint": "arccot(0) = sudut yang cot-nya 0",
+    "answer": "π/2",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(3π/4)? (dalam radian)",
+    "hint": "3π/4 radian = 135 derajat",
+    "answer": "-1",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah trapesium sama kaki memiliki sisi sejajar 6 cm dan 10 cm dengan tinggi 4 cm, berapa kelilingnya jika sisi miringnya 5 cm?",
+    "hint": "Keliling = jumlah semua sisi",
+    "answer": "26",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (x^2 e^x)?",
+    "hint": "Gunakan aturan perkalian turunan",
+    "answer": "e^x (x^2 + 2x)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 23 × 5?",
+    "hint": "Perkalian dasar",
+    "answer": "115",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika w(x) = arcsinh(x), berapa w(0)?",
+    "hint": "arcsinh(0) = 0",
+    "answer": "0",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(5π/6)? (dalam radian)",
+    "hint": "5π/6 radian = 150 derajat",
+    "answer": "0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah prisma segienam beraturan memiliki sisi alas 4 cm dan tinggi 10 cm, berapa volumenya?",
+    "hint": "Volume = luas alas × tinggi (luas segienam = (3√3/2)s²)",
+    "answer": "240√3 atau ≈415.692",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (1/√(1 - x^2)) dx?",
+    "hint": "Integral fungsi trigonometri invers",
+    "answer": "arcsin x + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 17^3?",
+    "hint": "17 pangkat 3",
+    "answer": "4913",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 784 ÷ 28?",
+    "hint": "Pembagian dasar",
+    "answer": "28",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika x(x) = arccosh(x), berapa x(1)?",
+    "hint": "arccosh(1) = 0",
+    "answer": "0",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(5π/3)? (dalam radian)",
+    "hint": "5π/3 radian = 300 derajat",
+    "answer": "0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah kerucut memiliki volume 308 cm³ dan tinggi 6 cm, berapa jari-jarinya? (π=22/7)",
+    "hint": "Rumus volume = 1/3 πr²h",
+    "answer": "7",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (ln(sin x))?",
+    "hint": "Gunakan aturan rantai",
+    "answer": "cot x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 24 × 6?",
+    "hint": "Perkalian dasar",
+    "answer": "144",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika y(x) = arctanh(x), berapa y(0)?",
+    "hint": "arctanh(0) = 0",
+    "answer": "0",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(5π/6)? (dalam radian)",
+    "hint": "5π/6 radian = 150 derajat",
+    "answer": "-√3/3 atau ≈-0.577",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah tabung memiliki luas permukaan 748 cm² dan jari-jari 7 cm, berapa tingginya? (π=22/7)",
+    "hint": "Rumus luas permukaan = 2πr(r + h)",
+    "answer": "10",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (1/(x ln x)) dx?",
+    "hint": "Gunakan substitusi u = ln x",
+    "answer": "ln|ln x| + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 18^3?",
+    "hint": "18 pangkat 3",
+    "answer": "5832",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 841 ÷ 29?",
+    "hint": "Pembagian dasar",
+    "answer": "29",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika z(x) = arcsech(x), berapa z(1)?",
+    "hint": "arcsech(1) = 0",
+    "answer": "0",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(7π/6)? (dalam radian)",
+    "hint": "7π/6 radian = 210 derajat",
+    "answer": "-0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah bola memiliki luas permukaan 314 cm², berapa jari-jarinya? (π=3.14)",
+    "hint": "Rumus luas permukaan = 4πr²",
+    "answer": "5",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (e^(x^2))?",
+    "hint": "Gunakan aturan rantai",
+    "answer": "2x e^(x^2)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 25 × 7?",
+    "hint": "Perkalian dasar",
+    "answer": "175",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika a(x) = arccoth(x), berapa a(1)?",
+    "hint": "arccoth(1) tidak terdefinisi",
+    "answer": "tidak terdefinisi",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(7π/4)? (dalam radian)",
+    "hint": "7π/4 radian = 315 derajat",
+    "answer": "√2/2 atau ≈0.707",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah limas segitiga memiliki volume 60 cm³ dan tinggi 10 cm, berapa luas alasnya?",
+    "hint": "Rumus volume = 1/3 × luas alas × tinggi",
+    "answer": "18",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (x e^(x^2)) dx?",
+    "hint": "Gunakan substitusi u = x^2",
+    "answer": "(1/2)e^(x^2) + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 19^3?",
+    "hint": "19 pangkat 3",
+    "answer": "6859",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 900 ÷ 30?",
+    "hint": "Pembagian dasar",
+    "answer": "30",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika b(x) = arcsin(0.5), berapa b(x) dalam derajat?",
+    "hint": "Sudut yang sin-nya 0.5",
+    "answer": "30",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari tan(7π/6)? (dalam radian)",
+    "hint": "7π/6 radian = 210 derajat",
+    "answer": "√3/3 atau ≈0.577",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah prisma segilima beraturan memiliki volume 500 cm³ dan tinggi 10 cm, berapa luas alasnya?",
+    "hint": "Volume = luas alas × tinggi",
+    "answer": "50",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (x^x)?",
+    "hint": "Gunakan logaritmik diferensiasi",
+    "answer": "x^x (1 + ln x)",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 26 × 5?",
+    "hint": "Perkalian dasar",
+    "answer": "130",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika c(x) = arccos(0.5), berapa c(x) dalam derajat?",
+    "hint": "Sudut yang cos-nya 0.5",
+    "answer": "60",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari sin(11π/6)? (dalam radian)",
+    "hint": "11π/6 radian = 330 derajat",
+    "answer": "-0.5",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah kerucut memiliki luas permukaan 550 cm² dan jari-jari 7 cm, berapa garis pelukisnya? (π=22/7)",
+    "hint": "Rumus luas permukaan = πr(r + s)",
+    "answer": "18",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari integral ∫ (1/(x^2 + a^2)) dx?",
+    "hint": "Integral bentuk standar",
+    "answer": "(1/a)arctan(x/a) + c",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 20^3?",
+    "hint": "20 pangkat 3",
+    "answer": "8000",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 961 ÷ 31?",
+    "hint": "Pembagian dasar",
+    "answer": "31",
+    "level": "mudah"
+  },
+  {
+    "pertanyaan": "Jika d(x) = arctan(1), berapa d(x) dalam derajat?",
+    "hint": "Sudut yang tan-nya 1",
+    "answer": "45",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari cos(11π/6)? (dalam radian)",
+    "hint": "11π/6 radian = 330 derajat",
+    "answer": "√3/2 atau ≈0.866",
+    "level": "sedang"
+  },
+  {
+    "pertanyaan": "Sebuah tabung memiliki volume 1386 cm³ dan tinggi 9 cm, berapa jari-jarinya? (π=22/7)",
+    "hint": "Rumus volume = πr²h",
+    "answer": "7",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari turunan d/dx (sinh x)?",
+    "hint": "Turunan fungsi hiperbolik",
+    "answer": "cosh x",
+    "level": "sulit"
+  },
+  {
+    "pertanyaan": "Berapa hasil dari 27 × 6?",
+    "hint": "Perkalian dasar",
+    "answer": "162",
+    "level": "mudah"
+  }
+]
